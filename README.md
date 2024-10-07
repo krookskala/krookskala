@@ -1,7 +1,7 @@
 ![MasterHead](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fran%C3%A7ois_Lemoyne_-_L%27Apoth%C3%A9ose_d%27Hercule_-_Google_Art_Project.jpg/1024px-Fran%C3%A7ois_Lemoyne_-_L%27Apoth%C3%A9ose_d%27Hercule_-_Google_Art_Project.jpg)
 
-<h1 align="center">Hi 👋, I'm İsmail Sarıarslan</h1>
-<h3 align="center">Aspiring Software Engineer | Exploring the World of Technology with Passion and Curiosity</h3>
+<h1 align="center" style="color: #f8f9fa;">Hi 👋, I'm İsmail Sarıarslan</h1>
+<h3 align="center" style="color: #f8f9fa;">Aspiring Software Engineer | Exploring the World of Technology with Passion and Curiosity</h3>
 
 ---
 
@@ -21,7 +21,7 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="color: #f8f9fa;">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/ismailsariarslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismailsariarslan" height="30" width="40" /></a>
   <a href="https://instagram.com/ismailsariarslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismailsariarslan" height="30" width="40" /></a>
@@ -29,7 +29,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" style="color: #f8f9fa;">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -88,8 +88,34 @@
 </p>
 
 ---
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krookskala&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="krookskala" /></p>
 
-<h3 align="left">Watch Snake Eating My GitHub Contributions:</h3>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krookskala&show_icons=true&locale=en&layout=compact&theme=radical" alt="krookskala" />
+</p>
 
-<img src="https://raw.githubusercontent.com/Ad1tyaPatel/Ad1tyaPatel/output/snake.svg" width = 1500 alt="Snake animation" />
+
+---
+<div align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=krookskala&theme=dark" alt="krookskala" />
+</div>
+
+---
+
+<div align="center">
+    <a href="https://github.com/krookskala">
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=krookskala&theme=dark" height="180em" />
+    </a>
+</div>
+
+
+---
+
+<h3 align="left" style="color: #f8f9fa;">Watch Snake Eating My GitHub Contributions:</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krookskala/krookskala/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krookskala/krookskala/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/krookskala/krookskala/output/github-contribution-grid-snake.svg">
+</picture>
+
