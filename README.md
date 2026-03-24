@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fran%C3%A7ois_Lemoyne_-_L%27Apoth%C3%A9ose_d%27Hercule_-_Google_Art_Project.jpg/1024px-Fran%C3%A7ois_Lemoyne_-_L%27Apoth%C3%A9ose_d%27Hercule_-_Google_Art_Project.jpg" 
+    src="https://github.com/user-attachments/assets/0075f4f9-bbe9-494c-9812-9184337020a7" 
     alt="MasterHead"
     width="100%"
   />
